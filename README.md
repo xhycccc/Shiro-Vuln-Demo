@@ -3,7 +3,6 @@ Shiro漏洞实例源码
 
 ## Shiro反序列化系列
 1. Shiro-550
-2. Shiro-721
 
 ## Shiro权限绕过系列
 | CVE            | 描述                   | 影响范围      | payload                  |
