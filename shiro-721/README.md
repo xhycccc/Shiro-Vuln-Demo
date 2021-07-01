@@ -22,3 +22,4 @@ Shiro处理cookie的流程：得到rememberMe的cookie值 》 Base64解码 》 A
 
 * [Shiro-721 RCE Via Padding Oracle Attack](https://github.com/inspiringz/Shiro-721)
 * [Shiro RCE again（Padding Oracle Attack）](https://www.anquanke.com/post/id/192819)
+* [CVE-2019-12422 Shiro721 ( Apache Shiro RememberMe Padding Oracle 1.4.1 反序列化漏洞) 分析 下 ](https://www.guildhab.top/2020/12/cve-2019-12422-shiro721-apache-shiro-rememberme-padding-oracle-1-4-1-反序列化漏洞-分析-下/)
