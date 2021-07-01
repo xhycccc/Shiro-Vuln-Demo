@@ -1,4 +1,4 @@
-# Apache Shiro 小于1.2.4反序列化漏洞(CVE-2016-4437)(Shiro-550)
+# Shiro-550 RememberMe反序列化漏洞(CVE-2016-4437)
 
 ### 漏洞描述
 
